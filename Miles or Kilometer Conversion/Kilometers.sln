@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kilometers", "Kilometers.pyproj", "{C3F21BE3-AD0D-4D61-A9D7-C8B058A28B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F21BE3-AD0D-4D61-A9D7-C8B058A28B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F21BE3-AD0D-4D61-A9D7-C8B058A28B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E96FD15-0A5C-4184-BF15-210C925C145C}
+	EndGlobalSection
+EndGlobal
